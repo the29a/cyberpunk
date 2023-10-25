@@ -1,8 +1,9 @@
-List of cyberpunk resources
+__List of cyberpunk resources__
 
 
-<img src="[/cyberpunk/media/Nightcity%20Animation.gif](https://github.com/the29a/cyberpunk/blob/182b15ccb5a2ab454416aa1bd4028feccad0facf/media/Nightcity%20Animation.gif)" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/the29a/cyberpunk/02eae9a9c8568be4a276da3888d7dd876f54f084/media/Nightcity%20Animation.gif" width="700" height="350">
 
+__Table of content__:
 - [What is Cyberpunk?](#what-is-cyberpunk)
 - [Cyberpunk Communities](#cyberpunk-communities)
 - [Cyberpunk Media](#cyberpunk-media)
