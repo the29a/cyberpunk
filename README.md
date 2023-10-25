@@ -3,11 +3,13 @@ __List of cyberpunk resources__
 
 <img src="https://raw.githubusercontent.com/the29a/cyberpunk/02eae9a9c8568be4a276da3888d7dd876f54f084/media/Nightcity%20Animation.gif" width="700" height="350">
 
+_animation made by [14collective](https://14collective.itch.io/pixel-art-background-backdrops-jungles-cities-and-underwater)_
+
+
 __Table of content__:
 - [What is Cyberpunk?](#what-is-cyberpunk)
 - [Cyberpunk Communities](#cyberpunk-communities)
-- [Cyberpunk Media](#cyberpunk-media)
-- [Cyberpunk Resources](#cyberpunk-resources)
+- [Cyberpunk Media and resources](#cyberpunk-media-and-resources)
 - [Art](#art)
   - [Artist and art groups](#artist-and-art-groups)
     - [Banksy](#banksy)
@@ -32,6 +34,7 @@ __Table of content__:
   - [2600 The Hacker Quarterly](#2600-the-hacker-quarterly)
   - [CYBR](#cybr)
 - [Tumblrs](#tumblrs)
+- [Neocities](#neocities)
 
 ### What is Cyberpunk?
 - [A Cyberpunk Manifesto](http://blog.9while9.com/manifesto-anthology/1997.html) by Christian As. Kirtchev. (1997)
@@ -48,17 +51,20 @@ __Table of content__:
 - [Wirechan.org/cyber](https://wirechan.org/cy/)
 - [8kun.top/cyber](https://8kun.top/cyber/index.html)
 
-### Cyberpunk Media
+### Cyberpunk Media and resources
 - [https://www.exolymph.news/](https://www.exolymph.news/) (archived)
 - [https://blackfogzine.org/](https://blackfogzine.org/)
 - [http://www.planetdamage.com/](http://www.planetdamage.com/)
 - [http://www.cyberpunkreview.com/](http://www.cyberpunkreview.com/)
 - [https://cyberpunked.org/](https://cyberpunked.org/)
+- [https://n-o-d-e.net](https://n-o-d-e.net)
+- [Jinteki](https://jinteki.industries/)
+- [Cyberpunk Database](https://cyberpunkdatabase.net/)
 
-### Cyberpunk Resources
 - [http://project.cyberpunk.ru/idb/](http://project.cyberpunk.ru/idb/)
 - [http://project.cyberpunk.ru/lib/](http://project.cyberpunk.ru/lib/)
 
+---
 ### Art
 #### Artist and art groups
 ##### Banksy
@@ -114,6 +120,7 @@ Robotic art is any artwork that employs some form of robotic or automated techno
 - [Fine Art America](https://fineartamerica.com/art/cyberpunk)
 - [archillect.com](https://archillect.com/): Archillect is an AI created to discover and share stimulating visual content
 
+---
 ### Comics
 #### Transmetropolitan
 - [Wikipedia: Transmetropolitan](https://en.wikipedia.org/wiki/Transmetropolitan)
@@ -138,7 +145,12 @@ Robotic art is any artwork that employs some form of robotic or automated techno
 #### CYBR
 - [CYBR](https://cybrmagazine.com/)
 
+---
 ### Tumblrs
+<details>
+  <summary>Click me</summary>
+
+- https://cyberpunkonline.net/
 - http://0110000101111000.tumblr.com/
 - http://virtualizedmemories.tumblr.com/
 - http://alteredcarbone.tumblr.com/
@@ -150,7 +162,6 @@ Robotic art is any artwork that employs some form of robotic or automated techno
 - http://cyberpunkhero.tumblr.com/
 - http://cyberpunkimages.tumblr.com/
 - http://cyberpunknoise.tumblr.com/
-- http://cyberpunkonline.net/
 - http://cyberpunktokyo.tumblr.com/
 - http://cybertunage.tumblr.com/
 - http://cypulchre.tumblr.com/
@@ -190,3 +201,20 @@ Robotic art is any artwork that employs some form of robotic or automated techno
 - http://cerebralzero.tumblr.com/
 - http://feedbackwild.tumblr.com/
 - [Cyberpunk Noise](https://cyberpunknoise.tumblr.com/)
+</details>
+
+---
+
+### Neocities
+<details>
+  <summary>Click me</summary>
+
+- https://angusnicneven.com
+- http://fauux.neocities.org
+- https://mebious.neocities.org
+- https://blackwings.neocities.org
+- https://webnavi.neocities.org
+- https://newchapter.neocities.org
+- https://unplug.neocities.org/
+- https://apollobase.neocities.org/news.html
+</details>
