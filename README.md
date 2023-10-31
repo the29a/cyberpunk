@@ -11,6 +11,9 @@ _animation made by [14collective](https://14collective.itch.io/pixel-art-backgro
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/the29a/cyberpunk/main)
 
 __Table of content__:
+<details>
+  <summary>Click me</summary>
+
 - [Art](#art)
   - [Artist and art groups](#artist-and-art-groups)
     - [Banksy](#banksy)
@@ -27,6 +30,7 @@ __Table of content__:
     - [Robotic Artwork](#robotic-artwork)
   - [Resources](#resources)
 - [Videos and Youtube channels](#videos-and-youtube-channels)
+  - [Youtube channels](#youtube-channels)
   - [Cyberpunk Documentary](#cyberpunk-documentary)
   - [BBS the Documentary](#bbs-the-documentary)
 - [Movies](#movies)
@@ -141,23 +145,41 @@ __Table of content__:
 - [Comics](#comics)
   - [Transmetropolitan](#transmetropolitan)
   - [Judge Dredd](#judge-dredd-1)
+  - [Hacktivist](#hacktivist)
+  - [Huxley](#huxley)
 - [Maga(zines)](#magazines)
   - [n-o-d-e zine](#n-o-d-e-zine)
   - [Lainzine](#lainzine)
   - [2600 The Hacker Quarterly](#2600-the-hacker-quarterly)
   - [CYBR](#cybr)
+- [Cyberdecks/Hardware](#cyberdeckshardware)
 - [Tumblrs](#tumblrs)
 - [Neocities](#neocities)
-- [Table Top games](#table-top-games)
+- [Tabletop Games](#tabletop-games)
   - [Cryptomancer RPG](#cryptomancer-rpg)
 - [Clothing/Wearable](#clothingwearable)
+- [Similar projects](#similar-projects)
+
+</details>
+
+---
 
 ### What is Cyberpunk?
+<details>
+  <summary>Click me</summary>
+
 - [A Cyberpunk Manifesto](http://blog.9while9.com/manifesto-anthology/1997.html) by Christian As. Kirtchev. (1997)
 - [https://cyberpunkforums.com/viewtopic.php?id=361](https://cyberpunkforums.com/viewtopic.php?id=361)
 - [https://wiki.installgentoo.com/index.php?title=Cyberpunk](https://wiki.installgentoo.com/index.php?title=Cyberpunk)
 
+</details>
+
+---
+
 ### Cyberpunk Communities
+<details>
+  <summary>Click me</summary>
+
 - [reddit.com/r/cyberpunk](https://www.reddit.com/r/Cyberpunk)
 - [http://www.cyberpunkforums.com/](http://www.cyberpunkforums.com/)
 - [https://lainchan.org/](https://lainchan.org/)
@@ -167,7 +189,14 @@ __Table of content__:
 - [Wirechan.org/cyber](https://wirechan.org/cy/)
 - [8kun.top/cyber](https://8kun.top/cyber/index.html)
 
+</details>
+
+---
+
 ### Cyberpunk Media and Resources
+<details>
+  <summary>Click me</summary>
+
 - [https://www.exolymph.news/](https://www.exolymph.news/) (archived)
 - [https://blackfogzine.org/](https://blackfogzine.org/)
 - [http://www.planetdamage.com/](http://www.planetdamage.com/)
@@ -178,6 +207,8 @@ __Table of content__:
 - [Cyberpunk Database](https://cyberpunkdatabase.net/)
 - [http://project.cyberpunk.ru/idb/](http://project.cyberpunk.ru/idb/)
 - [http://project.cyberpunk.ru/lib/](http://project.cyberpunk.ru/lib/)
+
+</details>
 
 ---
 
@@ -212,7 +243,10 @@ Freelance concept artist.
 #### Simon Stålenhag
 Simon Stålenhag (b. 1984) is the internationally acclaimed author and artist behind The Electric State, Tales from the Loop and Things from the Flood. His highly imaginative images and stories depicting illusive sci-fi phenomena in mundane, hyper-realistic Scandinavian and American landscapes have made Stålenhag one of the most sought-after visual storytellers in the world.
 - [Official Website](https://www.simonstalenhag.se/index.html)
+
 </details>
+
+---
 
 ### Art styles
 <details>
@@ -237,7 +271,10 @@ Street art is visual art created in public locations for public visibility. It h
 #### Robotic Artwork
 Robotic art is any artwork that employs some form of robotic or automated technology. There are many branches of robotic art, one of which is robotic installation art, a type of installation art that is programmed to respond to viewer interactions, by means of computers, sensors and actuators. 
 - [Wikipedia: Robotic Artwork](https://en.wikipedia.org/wiki/Robotic_art)
+
 </details>
+
+---
 
 ### Resources
 <details>
@@ -247,6 +284,7 @@ Robotic art is any artwork that employs some form of robotic or automated techno
 - [Fine Art America](https://fineartamerica.com/art/cyberpunk)
 - [archillect.com](https://archillect.com/) Archillect is an AI created to discover and share stimulating visual content
 - [16colo.rs](https://16colo.rs/) ASCII and ANSI art archive
+
 </details>
 
 ---
@@ -255,6 +293,7 @@ Robotic art is any artwork that employs some form of robotic or automated techno
 <details>
   <summary>Click me</summary>
 
+### Youtube channels
 - [N-O-D-E TV](https://www.youtube.com/c/NODEtv/videos)
 ### Cyberpunk Documentary
 - [Youtube: Cyberpunk Documentary PART 1 | Neuromancer, Blade Runner, RoboCop, Akira, Shadowrun](https://www.youtube.com/watch?v=sttm8Q9rOdQ)
@@ -263,6 +302,7 @@ Robotic art is any artwork that employs some form of robotic or automated techno
 ### BBS the Documentary
 The BBS (bulletin board system) scene of the 80s and 90s was a magical time. Long before the Internet escaped from the lab, connected the planet and redefined what it meant to use a computer there was a brave and pioneering band of computer users who spent their time, money and sanity setting up their home computers and phone lines to welcome anyone who called.
 - [Youtube: BBS Documentary](https://www.youtube.com/watch?v=nO5vjmDFZaI)
+
 </details>
 
 ---
@@ -350,7 +390,6 @@ A veteran assigned to extract Earth's remaining resources begins to question wha
 - [Wikipedia: Oblivion](https://en.wikipedia.org/wiki/Oblivion_(2013_film))
 - [imdb: Oblivion](https://www.imdb.com/title/tt1483013/) 
 - [Kinopoisk: Обливион](https://www.kinopoisk.ru/film/470185/)
-
 
 ### TRON:
 #### TRON
@@ -659,7 +698,7 @@ In a world without anonymity or crime, a detective meets a woman who threatens t
 - [CyberPunk 2077 Official Site](https://www.cyberpunk.net/)
 - [Wikipedia: Cyberpunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077)
 - [Steam: Cyberpunk 2077](https://store.steampowered.com/app/1091500/Cyberpunk_2077/)
-- [GOG:  Cyberpunk 2077]https://www.gog.com/en/game/cyberpunk_2077
+- [GOG:  Cyberpunk 2077](https://www.gog.com/en/game/cyberpunk_2077)
 #### Cyberpunk 2077: Phantom Liberty 
 - [Steam: Cyberpunk 2077: Phantom Liberty](https://store.steampowered.com/app/2138330/Cyberpunk_2077/)
 - [GOG: Cyberpunk 2077: Phantom Liberty](https://www.gog.com/en/game/cyberpunk_2077_phantom_liberty)
@@ -695,7 +734,7 @@ In a world without anonymity or crime, a detective meets a woman who threatens t
 - [itch.io: ExaPunks](https://zachtronics.itch.io/exapunks)
 
 ### SHENZHEN I/O
-- [SHENZHEN I/O Official Site]
+- [SHENZHEN I/O Official Site](https://www.zachtronics.com/shenzhen-io/)
 - [Steam: SHENZHEN I/O](https://store.steampowered.com/app/504210/SHENZHEN_IO/)
 - [GOG: SHENZHEN I/O](https://www.gog.com/game/shenzhen_io)
 - [itch.io: SHENZHEN I/O](https://zachtronics.itch.io/shenzhen-io)
@@ -837,6 +876,13 @@ In a world without anonymity or crime, a detective meets a woman who threatens t
 - [readcomiconline.li: Judge Dredd (1983)](https://readcomiconline.li/Comic/Judge-Dredd-1983)
 - [readcomiconline.li: Judge Dredd: The Complete Case Files information](https://readcomiconline.li/Comic/Judge-Dredd-The-Complete-Case-Files)
 
+### Hacktivist
+- [readcomiconline.li: Hacktivist](https://readcomiconline.li/Comic/Hacktivist)
+
+### Huxley
+- [Huxley Official Site](https://huxleysaga.com/)
+- [Huxley](https://benmaurodesign.com/HUXLEY-GRAPHIC-NOVEL)
+
 </details>
 
 ---
@@ -857,6 +903,18 @@ In a world without anonymity or crime, a detective meets a woman who threatens t
 
 ### CYBR
 - [CYBR](https://cybrmagazine.com/)
+
+</details>
+
+---
+
+## Cyberdecks/Hardware
+<details>
+  <summary>Click me</summary>
+
+- [reddit.com/r/cyberdeck/](https://www.reddit.com/r/cyberDeck/)
+- [mntre](https://mntre.com/)
+
 </details>
 
 ---
@@ -916,6 +974,7 @@ In a world without anonymity or crime, a detective meets a woman who threatens t
 - http://cerebralzero.tumblr.com/
 - http://feedbackwild.tumblr.com/
 - [Cyberpunk Noise](https://cyberpunknoise.tumblr.com/)
+
 </details>
 
 ---
@@ -932,32 +991,48 @@ In a world without anonymity or crime, a detective meets a woman who threatens t
 - https://newchapter.neocities.org
 - https://unplug.neocities.org/
 - https://apollobase.neocities.org/news.html
+
 </details>
 
+---
 
-## Table Top games
+## Tabletop Games
 <details>
   <summary>Click me</summary>
 
 ### Cryptomancer RPG
-* [Cryptomancer RPG Official Site](http://cryptorpg.com/)
+- [Cryptomancer RPG Official Site](http://cryptorpg.com/)
+
 </details>
+
+---
 
 ## Clothing/Wearable
 <details>
   <summary>Click me</summary>
 
-* [5060/Machine56](https://5060.bigcartel.com/)
-* [ACRONYM](https://acrnm.com/)
-* [BlackTailor](https://www.blacktailor.store/)
-* [Demobaza](https://www.demobaza.com/)
-* [Dustrial](https://dustrial.net/)
-* [Enshadower](https://www.enshadower.me/)
-* [Guerilla Group](https://guerrilla-group.co/)
-* [HackAttack Shoes](https://www.aliveshoes.com/brand/hackattack)
-* [Krakatau](https://en.krakatauwear.com/)
-* [neo4ic](https://neo4ic.com/)
-* [Niepce Inc](https://niepceinc.com/)
-* [N O D E](https://n-o-d-e.shop/)
-* [ZOLNAR](https://www.etsy.com/shop/ZOLNAR)
+- [5060/Machine56](https://5060.bigcartel.com/)
+- [ACRONYM](https://acrnm.com/)
+- [BlackTailor](https://www.blacktailor.store/)
+- [Demobaza](https://www.demobaza.com/)
+- [Dustrial](https://dustrial.net/)
+- [Enshadower](https://www.enshadower.me/)
+- [Guerilla Group](https://guerrilla-group.co/)
+- [HackAttack Shoes](https://www.aliveshoes.com/brand/hackattack)
+- [Krakatau](https://en.krakatauwear.com/)
+- [neo4ic](https://neo4ic.com/)
+- [Niepce Inc](https://niepceinc.com/)
+- [N O D E](https://n-o-d-e.shop/)
+- [ZOLNAR](https://www.etsy.com/shop/ZOLNAR)
+
+</details>
+
+---
+
+## Similar projects
+<details>
+  <summary>Click me</summary>
+
+- [https://github.com/gonzalo-/cyberpunk](https://github.com/gonzalo-/cyberpunk)
+- [https://cyberpunkdatabase.net/](https://cyberpunkdatabase.net/)
 </details>
