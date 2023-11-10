@@ -23,11 +23,14 @@ __Table of content__:
     - [Josan Gonsales (Death Burger)](#josan-gonsales-death-burger)
     - [Simon Stålenhag](#simon-stålenhag)
     - [Chris Doretz](#chris-doretz)
+    - [Pixel Jeff](#pixel-jeff)
   - [Art styles](#art-styles)
     - [Glitch Art](#glitch-art)
     - [New Aesthetic](#new-aesthetic)
     - [Net Art](#net-art)
     - [Street Art](#street-art)
+    - [Pixel Art](#pixel-art)
+    - [ASCII art](#ascii-art)
     - [Robotic Artwork](#robotic-artwork)
   - [Resources](#resources)
 - [Videos and Youtube channels](#videos-and-youtube-channels)
@@ -61,7 +64,7 @@ __Table of content__:
   - [Chappie](#chappie)
   - [A.I. Artificial Intelligence](#ai-artificial-intelligence)
   - [Equilibrium](#equilibrium)
-  - [Dredd:](#dredd)
+  - [Dredd](#dredd)
     - [Judge Dredd](#judge-dredd)
     - [Dredd](#dredd-1)
   - [I, Robot](#i-robot)
@@ -71,7 +74,7 @@ __Table of content__:
   - [Until the end of the world](#until-the-end-of-the-world)
   - [Hardware](#hardware)
   - [Cyberpunk (90's documentary)](#cyberpunk-90s-documentary)
-  - [Techno Warriors  (Dian zi ge men zhan shi)](#techno-warriors--dian-zi-ge-men-zhan-shi)
+  - [Techno Warriors (Dian zi ge men zhan shi)](#techno-warriors-dian-zi-ge-men-zhan-shi)
   - [Cypher](#cypher)
   - [New Rose Hotel](#new-rose-hotel)
   - [Webmaster](#webmaster)
@@ -98,6 +101,28 @@ __Table of content__:
   - [Ares](#ares)
   - [Finch](#finch)
   - [Anon (2018)](#anon-2018)
+- [TV Shows\\Serials](#tv-showsserials)
+  - [Aeon Flux](#aeon-flux)
+  - [Almost Human](#almost-human)
+  - [Altered Carbon](#altered-carbon)
+  - [Black Mirror](#black-mirror)
+  - [Blade Runner: Black Lotus](#blade-runner-black-lotus)
+  - [Caprica](#caprica)
+  - [Continuum (I'll Follow You Down)](#continuum-ill-follow-you-down)
+  - [Cowboy Bebop (2021 TV series)](#cowboy-bebop-2021-tv-series)
+  - [Dark](#dark)
+  - [Devs](#devs)
+  - [Dollhouse](#dollhouse)
+  - [Electric Dreams](#electric-dreams)
+  - [Firefly](#firefly)
+  - [Fringe](#fringe)
+  - [Humans](#humans)
+  - [Love, Death \& Robots](#love-death--robots)
+  - [Mr. Robot](#mr-robot)
+  - [Sense8](#sense8)
+  - [Stargate SG-1](#stargate-sg-1)
+  - [The Expanse](#the-expanse)
+  - [Westworld](#westworld)
 - [Video Games](#video-games)
   - [2064: Read Only Memories](#2064-read-only-memories)
   - [Beneath a Steel Sky](#beneath-a-steel-sky)
@@ -160,6 +185,9 @@ __Table of content__:
   - [Cryptomancer RPG](#cryptomancer-rpg)
 - [Clothing/Wearable](#clothingwearable)
 - [Similar projects](#similar-projects)
+- [Possibly related, but not in list](#possibly-related-but-not-in-list)
+  - [TV Shows\\Serials](#tv-showsserials-1)
+    - [Battlestar Galactica](#battlestar-galactica)
 
 </details>
 
@@ -249,6 +277,10 @@ Simon Stålenhag (b. 1984) is the internationally acclaimed author and artist be
 Concept Artist, Industrial Designer
 - [Artstation](https://cdodez.artstation.com/)
 
+#### Pixel Jeff
+Pixel Artist / Freelancer
+- [Artstation](https://pixeljeff1995.artstation.com/)
+
 </details>
 
 ---
@@ -272,6 +304,14 @@ Internet art (also known as net art) is a form of new media art distributed via 
 #### Street Art 
 Street art is visual art created in public locations for public visibility. It has been associated with the terms "independent art," "post-graffiti", "neo-graffiti" and guerrilla art. Street art has evolved from the early forms of defiant graffiti into a more commercial form of art, as one of the main differences now lies with the messaging. 
 - [Wikipedia: Street art](https://en.wikipedia.org/wiki/Street_art)
+
+#### Pixel Art
+Pixel artis a form of digital art drawn with graphical software where images are built using pixels as the only building block. It is widely associated with the low-resolution graphics from 8-bit and 16-bit era computers, arcade machines and video game consoles, in addition to other limited systems such as LED displays and graphing calculators, which have a limited number of pixels and colors available.
+- [Wikipedia: Pixel Art](https://en.wikipedia.org/wiki/Pixel_art)
+
+#### ASCII art
+ASCII art is a graphic design technique that uses computers for presentation and consists of pictures pieced together from the 95 printable (from a total of 128) characters defined by the ASCII Standard from 1963 and ASCII compliant character sets with proprietary extended characters (beyond the 128 characters of standard 7-bit ASCII).
+- [Wikipedia: ASCII Art](https://en.wikipedia.org/wiki/ASCII_art)
 
 #### Robotic Artwork
 Robotic art is any artwork that employs some form of robotic or automated technology. There are many branches of robotic art, one of which is robotic installation art, a type of installation art that is programmed to respond to viewer interactions, by means of computers, sensors and actuators. 
@@ -454,7 +494,7 @@ In an oppressive future where all forms of feeling are illegal, a man in charge 
 - [imdb: Equilibrium](https://www.imdb.com/title/tt0238380/) 
 - [Kinopoisk: Эквилибриум](https://www.kinopoisk.ru/film/309/)
 
-### Dredd:
+### Dredd
 #### Judge Dredd
 In a dystopian future, Joseph Dredd, the most famous Judge (a police officer with instant field judiciary powers), is convicted for a crime he did not commit and must face his murderous counterpart.
 - [Wikipedia: Judge Dredd](https://en.wikipedia.org/wiki/Judge_Dredd_(film))
@@ -507,7 +547,7 @@ Stylistic documentary about the cyberpunk movement. William Gibson, author of cy
 - [imdb: Cyberpunk (90's documentary)](https://www.imdb.com/title/tt0398910/)
 - [Youtube: Cyberpunk (90's documentary)](https://www.youtube.com/watch?v=AxbZq8Zmd88)
 
-### Techno Warriors  (Dian zi ge men zhan shi)
+### Techno Warriors (Dian zi ge men zhan shi)
 In the future, a computer bug sets a new breed of armed and dangerous villains loose on an unsuspecting world. Digital game characters who govern their own destiny and with global domination at their cyber fingerprints pose the biggest threat to mankind.
 - [imdb: Techno Warriors](https://www.imdb.com/title/tt0256428)
 - [Kinopoisk: Технобойцы (1998)](https://www.kinopoisk.ru/film/55294/)
@@ -521,7 +561,7 @@ An unsuspecting, disenchanted man finds himself working as a spy in the dangerou
 ### New Rose Hotel
 Two businessmen are hired to steal secrets from a rival, and decide to use a beautiful call girl to do so. 
 - [Wikipedia: New Rose Hotel](https://en.wikipedia.org/wiki/New_Rose_Hotel_(film))
-- [imdb:New Rose Hotel](https://www.imdb.com/title/tt0133122/)
+- [imdb: New Rose Hotel](https://www.imdb.com/title/tt0133122/)
 - [Kinopoisk: Отель Новая Роза](https://www.kinopoisk.ru/film/6896/)
 
 ### Webmaster
@@ -672,6 +712,121 @@ In a world without anonymity or crime, a detective meets a woman who threatens t
 
 ---
 
+## TV Shows\Serials
+
+<details>
+  <summary>Click me</summary>
+
+### Aeon Flux
+- [Wikipedia: Aeon Flux](https://en.wikipedia.org/wiki/%C3%86on_Flux)
+- [imdb: Aeon Flux](https://www.imdb.com/title/tt0111873/)
+- [Kinopoisk: Эон Флакс (2005)](https://www.kinopoisk.ru/series/229646/)
+
+### Almost Human
+- [Wikipedia: Almost Human (2013)](https://en.wikipedia.org/wiki/Almost_Human_(2013_film))
+- [imdb: Almost Human](https://www.imdb.com/title/tt2654580/)
+- [Kinopoisk: Почти человек (2013 – 2014)](https://www.kinopoisk.ru/series/733636/)
+
+### Altered Carbon
+- [Wikipedia: Altered Carbon (TV series)](https://en.wikipedia.org/wiki/Altered_Carbon_(TV_series))
+- [imdb: Altered Carbon](https://www.imdb.com/title/tt2261227/)
+- [Kinopoisk: Видоизменённый углерод (сериал 2018 – 2020)](https://www.kinopoisk.ru/series/669089/)
+
+### Black Mirror
+- [Wikipedia: Black Mirror](https://en.wikipedia.org/wiki/Black_Mirror)
+- [imdb: Black Mirror](https://www.imdb.com/title/tt2085059/)
+- [Kinopoisk: Чёрное Зеркало](https://www.kinopoisk.ru/series/655800/)
+
+### Blade Runner: Black Lotus
+- [Wikipedia: Blade Runner: Black Lotus](https://en.wikipedia.org/wiki/Blade_Runner:_Black_Lotus)
+- [imdb: Blade Runner: Black Lotus](https://www.imdb.com/title/tt9359796/)
+- [Kinopoisk: Бегущий по лезвию: Чёрный лотос](https://www.kinopoisk.ru/series/1212708/)
+
+### Caprica
+- [Wikipedia: Caprica](https://en.wikipedia.org/wiki/Caprica)
+- [imdb: Caprica](https://www.imdb.com/title/tt0799862/)
+- [Kinopoisk: Каприка](https://www.kinopoisk.ru/series/460138/)
+
+### Continuum (I'll Follow You Down)
+I'll Follow You Down is a 2013 Canadian techno-thriller film written and directed by Richie Mehta. Outside the United States and Canada, the film was released as Continuum.
+- [Wikipedia: I'll Follow You Down](https://en.wikipedia.org/wiki/I%27ll_Follow_You_Down)
+- [imdb: Continuum](https://www.imdb.com/title/tt1954347/)
+- [Kinopoisk: Я последую за тобой](https://www.kinopoisk.ru/film/626091/)
+
+### Cowboy Bebop (2021 TV series) 
+- [Wikipedia: Cowboy Bebop (2021 TV series)](https://en.wikipedia.org/wiki/Cowboy_Bebop_(2021_TV_series))
+- [imdb: Cowboy Bebop](https://www.imdb.com/title/tt1267295/)
+- [Kinopoisk: Ковбой Бибоп (сериал 2021)](https://www.kinopoisk.ru/series/426368/)
+
+### Dark
+- [Wikipedia: Dark (TV series)](https://en.wikipedia.org/wiki/Dark_(TV_series))
+- [imdb: Dark](https://www.imdb.com/title/tt5753856/)
+- [Kinopoisk: Тьма](https://www.kinopoisk.ru/series/1032606/)
+
+### Devs
+- [Wikipedia: Devs (TV series)](https://en.wikipedia.org/wiki/Devs_(TV_series))
+- [imdb: Devs](https://www.imdb.com/title/tt8134186/)
+- [Kinopoisk: Программисты (мини–сериал 2020)](https://www.kinopoisk.ru/series/1137249/)
+
+### Dollhouse
+- [Wikipedia: Dollhouse (TV series)](https://en.wikipedia.org/wiki/Dollhouse_(TV_series))
+- [imdb: Dollhouse](https://www.imdb.com/title/tt1135300/)
+- [Kinopoisk: Кукольный дом (сериал 2009 – 2010)](https://www.kinopoisk.ru/series/412341/)
+
+### Electric Dreams
+- [Wikipedia: Electric Dreams (2017 TV series)](https://en.wikipedia.org/wiki/Electric_Dreams_(2017_TV_series))
+- [imdb: Electric Dreams](https://www.imdb.com/title/tt5711280/)
+- [Kinopoisk: Электрические сны](https://www.kinopoisk.ru/series/1044254/)
+
+### Firefly
+- [Wikipedia: Firefly (TV series)](https://en.wikipedia.org/wiki/Firefly_(TV_series))
+- [imdb: Firefly](https://www.imdb.com/title/tt0303461/)
+- [Kinopoisk: Светлячок (сериал 2002 – 2003)](https://www.kinopoisk.ru/series/178720/)
+
+### Fringe
+- [Wikipedia: Fringe (TV series)](https://en.wikipedia.org/wiki/Fringe_(TV_series))
+- [imdb: Fringe](https://www.imdb.com/title/tt1119644/)
+- [Kinopoisk: Грань](https://www.kinopoisk.ru/series/412342/)
+
+### Humans
+- [Wikipedia: Humans (TV series)](https://en.wikipedia.org/wiki/Humans_(TV_series))
+- [imdb: Humans](https://www.imdb.com/title/tt4122068/)
+- [Kinopoisk: Люди](https://www.kinopoisk.ru/series/855925/)
+
+### Love, Death & Robots
+- [Wikipedia: Love, Death & Robots](https://en.wikipedia.org/wiki/Love,_Death_%26_Robots)
+- [imdb: Love, Death & Robots](https://www.imdb.com/title/tt9561862/)
+- [Kinopoisk: Любовь. Смерть. Роботы](https://www.kinopoisk.ru/series/1228254/)
+
+### Mr. Robot
+- [Wikipedia: Mr. Robot](https://en.wikipedia.org/wiki/Mr._Robot)
+- [imdb: Mr. Robot](https://www.imdb.com/title/tt4158110/)
+- [Kinopoisk: Мистер Робот](https://www.kinopoisk.ru/series/859908/)
+
+### Sense8
+- [Wikipedia: Sense8](https://en.wikipedia.org/wiki/Sense8)
+- [imdb: Sense8](https://www.imdb.com/title/tt2431438/)
+- [Kinopoisk: Восьмое чувство](https://www.kinopoisk.ru/series/818707/)
+
+### Stargate SG-1
+- [Wikipedia: Stargate SG-1](https://en.wikipedia.org/wiki/Stargate_SG-1)
+- [imdb: Stargate SG-1](https://www.imdb.com/title/tt0118480/)
+- [Kinopoisk: Звездные врата: ЗВ-1](https://www.kinopoisk.ru/series/178566/)
+
+### The Expanse
+- [Wikipedia: The Expanse](https://en.wikipedia.org/wiki/The_Expanse_(TV_series))
+- [imdb: The Expanse](https://www.imdb.com/title/tt3230854/)
+- [Kinopoisk: Пространство](https://www.kinopoisk.ru/series/805092/)
+
+### Westworld
+- [Wikipedia: Westworld](https://en.wikipedia.org/wiki/Westworld_(TV_series))
+- [imdb: Westworld](https://www.imdb.com/title/tt0475784/)
+- [Kinopoisk: Мир Дикого Запада](https://www.kinopoisk.ru/series/195523/)
+
+</details>
+
+---
+
 ## Video Games
 <details>
   <summary>Click me</summary>
@@ -798,7 +953,7 @@ In a world without anonymity or crime, a detective meets a woman who threatens t
 - [Wikipedia: Shadowrun](https://en.wikipedia.org/wiki/Shadowrun)
 
 #### Shadowrun Returns
-- [Wikipedia: Shadowrun Returns](Shadowrun Returns)
+- [Wikipedia: Shadowrun Returns](https://en.wikipedia.org/wiki/Shadowrun_Returns)
 - [Steam: Shadowrun Returns](https://store.steampowered.com/app/234650/Shadowrun_Returns/)
 - [GOG: Shadowrun Returns](https://www.gog.com/game/shadowrun_returns)
 
@@ -838,7 +993,7 @@ In a world without anonymity or crime, a detective meets a woman who threatens t
 ### Uplink
 - [Wikipedia: Uplink](https://en.wikipedia.org/wiki/Uplink_(video_game))
 - [Steam: Uplink](https://store.steampowered.com/app/1510/Uplink)
-- [GOG:  Uplink: Hacker Elite](https://www.gog.com/en/game/uplink_hacker_elite)
+- [GOG: Uplink: Hacker Elite](https://www.gog.com/en/game/uplink_hacker_elite)
 
 ### Hacknet
 - [Hacknet Official Site](https://hacknet-os.com/)
@@ -1029,7 +1184,7 @@ In a world without anonymity or crime, a detective meets a woman who threatens t
 - [Krakatau](https://en.krakatauwear.com/)
 - [neo4ic](https://neo4ic.com/)
 - [Niepce Inc](https://niepceinc.com/)
-- [N O D E](https://n-o-d-e.shop/)
+- [N-O-D-E Shop](https://n-o-d-e.shop/)
 - [ZOLNAR](https://www.etsy.com/shop/ZOLNAR)
 
 </details>
@@ -1042,5 +1197,19 @@ In a world without anonymity or crime, a detective meets a woman who threatens t
 
 - [https://github.com/gonzalo-/cyberpunk](https://github.com/gonzalo-/cyberpunk)
 - [https://cyberpunkdatabase.net/](https://cyberpunkdatabase.net/)
+
+</details>
+
+---
+
+## Possibly related, but not in list
+<details>
+  <summary>Click me</summary>
+
+### TV Shows\Serials
+#### Battlestar Galactica
+- [Wikipedia: Battlestar Galactica](https://en.wikipedia.org/wiki/Battlestar_Galactica)
+- [imdb: Battlestar Galactica](https://www.imdb.com/title/tt0407362/)
+- [Kinopoisk: ?]
 
 </details>
