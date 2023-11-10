@@ -22,6 +22,7 @@ __Table of content__:
     - [Paul Chadeisson](#paul-chadeisson)
     - [Josan Gonsales (Death Burger)](#josan-gonsales-death-burger)
     - [Simon Stålenhag](#simon-stålenhag)
+    - [Chris Doretz](#chris-doretz)
   - [Art styles](#art-styles)
     - [Glitch Art](#glitch-art)
     - [New Aesthetic](#new-aesthetic)
@@ -181,10 +182,10 @@ __Table of content__:
   <summary>Click me</summary>
 
 - [reddit.com/r/cyberpunk](https://www.reddit.com/r/Cyberpunk)
-- [http://www.cyberpunkforums.com/](http://www.cyberpunkforums.com/)
-- [https://lainchan.org/](https://lainchan.org/)
-- [https://new.systemspace.network/](https://new.systemspace.network/)
-- [Dangeru](https://dangeru.us/)
+- [cyberpunkforums.com/](http://www.cyberpunkforums.com/)
+- [lainchan.org/](https://lainchan.org/)
+- [new.systemspace.network/](https://new.systemspace.network/)
+- [Dangeru.us/](https://dangeru.us/)
 - [Anon.Cafe/cyber](https://anon.cafe/cyber/)
 - [Wirechan.org/cyber](https://wirechan.org/cy/)
 - [8kun.top/cyber](https://8kun.top/cyber/index.html)
@@ -203,8 +204,8 @@ __Table of content__:
 - [http://www.cyberpunkreview.com/](http://www.cyberpunkreview.com/)
 - [https://cyberpunked.org/](https://cyberpunked.org/)
 - [https://n-o-d-e.net](https://n-o-d-e.net)
-- [Jinteki](https://jinteki.industries/)
-- [Cyberpunk Database](https://cyberpunkdatabase.net/)
+- [https://jinteki.industries/](https://jinteki.industries/)
+- [https://cyberpunkdatabase.net/](https://cyberpunkdatabase.net/)
 - [http://project.cyberpunk.ru/idb/](http://project.cyberpunk.ru/idb/)
 - [http://project.cyberpunk.ru/lib/](http://project.cyberpunk.ru/lib/)
 
@@ -243,6 +244,10 @@ Freelance concept artist.
 #### Simon Stålenhag
 Simon Stålenhag (b. 1984) is the internationally acclaimed author and artist behind The Electric State, Tales from the Loop and Things from the Flood. His highly imaginative images and stories depicting illusive sci-fi phenomena in mundane, hyper-realistic Scandinavian and American landscapes have made Stålenhag one of the most sought-after visual storytellers in the world.
 - [Official Website](https://www.simonstalenhag.se/index.html)
+
+#### Chris Doretz
+Concept Artist, Industrial Designer
+- [Artstation](https://cdodez.artstation.com/)
 
 </details>
 
@@ -295,10 +300,12 @@ Robotic art is any artwork that employs some form of robotic or automated techno
 
 ### Youtube channels
 - [N-O-D-E TV](https://www.youtube.com/c/NODEtv/videos)
+
 ### Cyberpunk Documentary
 - [Youtube: Cyberpunk Documentary PART 1 | Neuromancer, Blade Runner, RoboCop, Akira, Shadowrun](https://www.youtube.com/watch?v=sttm8Q9rOdQ)
 - [Youtube: Cyberpunk Documentary PART 2 | Ghost in the Shell, Shadowrun, Total Recall, Blade Runner Game](https://www.youtube.com/watch?v=0VoX3vr6CCM)
 - [Youtube: Cyberpunk Documentary PART 3 | The Matrix, System Shock, Snow Crash, Hackers, VR & Simulation Theory](https://www.youtube.com/watch?v=KczJNtexinY)
+
 ### BBS the Documentary
 The BBS (bulletin board system) scene of the 80s and 90s was a magical time. Long before the Internet escaped from the lab, connected the planet and redefined what it meant to use a computer there was a brave and pioneering band of computer users who spent their time, money and sanity setting up their home computers and phone lines to welcome anyone who called.
 - [Youtube: BBS Documentary](https://www.youtube.com/watch?v=nO5vjmDFZaI)
@@ -913,7 +920,7 @@ In a world without anonymity or crime, a detective meets a woman who threatens t
   <summary>Click me</summary>
 
 - [reddit.com/r/cyberdeck/](https://www.reddit.com/r/cyberDeck/)
-- [mntre](https://mntre.com/)
+- [mntre.com](https://mntre.com/)
 
 </details>
 
@@ -1035,4 +1042,5 @@ In a world without anonymity or crime, a detective meets a woman who threatens t
 
 - [https://github.com/gonzalo-/cyberpunk](https://github.com/gonzalo-/cyberpunk)
 - [https://cyberpunkdatabase.net/](https://cyberpunkdatabase.net/)
+
 </details>
