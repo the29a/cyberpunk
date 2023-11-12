@@ -184,10 +184,10 @@ __Table of content__:
 - [Tabletop Games](#tabletop-games)
   - [Cryptomancer RPG](#cryptomancer-rpg)
 - [Clothing/Wearable](#clothingwearable)
-- [Similar projects](#similar-projects)
 - [Possibly related, but not in list](#possibly-related-but-not-in-list)
   - [TV Shows\\Serials](#tv-showsserials-1)
     - [Battlestar Galactica](#battlestar-galactica)
+- [Similar projects](#similar-projects)
 
 </details>
 
@@ -1191,17 +1191,6 @@ I'll Follow You Down is a 2013 Canadian techno-thriller film written and directe
 
 ---
 
-## Similar projects
-<details>
-  <summary>Click me</summary>
-
-- [https://github.com/gonzalo-/cyberpunk](https://github.com/gonzalo-/cyberpunk)
-- [https://cyberpunkdatabase.net/](https://cyberpunkdatabase.net/)
-
-</details>
-
----
-
 ## Possibly related, but not in list
 <details>
   <summary>Click me</summary>
@@ -1213,3 +1202,16 @@ I'll Follow You Down is a 2013 Canadian techno-thriller film written and directe
 - [Kinopoisk: ?]
 
 </details>
+
+---
+
+## Similar projects
+<details>
+  <summary>Click me</summary>
+
+- [https://github.com/gonzalo-/cyberpunk](https://github.com/gonzalo-/cyberpunk)
+- [https://cyberpunkdatabase.net/](https://cyberpunkdatabase.net/)
+
+</details>
+
+---
